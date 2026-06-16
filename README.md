@@ -104,7 +104,7 @@ if you want a normal graph
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/wani-rathaur-096a54343/">
+  <a href="https://www.linkedin.com/in/ritesh-jha-436a54346/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
