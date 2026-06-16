@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/wani0502/assets/main/cat.gif" width="300">
+<img src="https://raw.githubusercontent.com/riteshjha8/assets/main/dino.gif" width="300">
 </td>
 
 
