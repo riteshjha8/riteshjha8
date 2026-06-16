@@ -4,11 +4,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshjha8&label=Visitors&color=00B4D8&style=for-the-badge" />
-</p>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -20,6 +15,11 @@
 🚀 **Building projects that solve real-world problems**
 
 </div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshjha8&label=Visitors&color=00B4D8&style=for-the-badge" />
+</p>
 
 
 <p align="center">
