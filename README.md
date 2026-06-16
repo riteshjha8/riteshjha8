@@ -89,7 +89,7 @@ if you want a normal graph
 <h2 align="center">🚀 Featured Projects</h2>
 
 
-
+<p align="center">
   <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
   </a>
@@ -108,7 +108,7 @@ if you want a normal graph
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:wanirathaur24@gmail.com">
+  <a href="mailto:riteshjha689@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
