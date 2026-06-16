@@ -16,7 +16,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: riteshjha8
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=ff79c6&color_dots=#1e1e2e,#313244,#45475a,#89b4fa,#cba6f7
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=39FF14&color_dots=%230d1117,%230e4429,%2300661f,%2326a641,%2339d353
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
