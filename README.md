@@ -50,14 +50,14 @@ if you want a normal graph
 
 
 <p align="center">
-  <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true" />
+ <a href="https://github.com/AI-PROJECT-4TH-SEM/no-code-ai-ui-tool">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AI-PROJECT-4TH-SEM&repo=no-code-ai-ui-tool&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/wani0502/NearHelp">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
 
