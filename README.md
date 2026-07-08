@@ -22,9 +22,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riteshjha8&show_icons=true&bg_color=1a1b26&title_color=48CAE4&text_color=C9D1D9&icon_color=48CAE4&border_color=30363D&cache_seconds=1800&v=2" />
-</p>
+</p> -->
 
 
 
@@ -46,7 +46,7 @@ if you want a normal graph
 
 
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- <h2 align="center">🚀 Featured Projects</h2>
 
 
 <p align="center">
@@ -59,7 +59,7 @@ if you want a normal graph
   <a href="https://github.com/wani0502/NearHelp">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=wani0502&repo=NearHelp&theme=tokyonight&hide_border=true&v=3" />
   </a>
-</p>
+</p> -->
 
 
 <h2 align="center">🛠 Tech Stack</h2>
