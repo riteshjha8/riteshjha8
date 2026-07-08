@@ -4,13 +4,15 @@
 
 
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
 
 🎓 **CSE @ NIT Jamshedpur (2024–2028)**
 
-🌱 **Exploring AI/ML and Full-Stack Development**
+🌱 **Full stack developer**
+
+🎓 **Exploring AI & Machine Learning**
 
 🚀 **Building projects that solve real-world problems**
 
@@ -21,7 +23,9 @@
   <img src="https://komarev.com/ghpvc/?username=riteshjha8&label=Visitors&color=00B4D8&style=for-the-badge" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riteshjha8&theme=github_dark" />
+</p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riteshjha8&show_icons=true&bg_color=1a1b26&title_color=48CAE4&text_color=C9D1D9&icon_color=48CAE4&border_color=30363D&cache_seconds=1800&v=2" />
 </p> -->
